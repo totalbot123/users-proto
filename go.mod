@@ -1,4 +1,4 @@
-module proto
+module github.com/totalbot123/users-proto
 
 go 1.19
 
